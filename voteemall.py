@@ -79,7 +79,7 @@ def prepVoting(args):
 
     print("Connecting to: " + url)
     page = requests.get (url, headers = headers).text
-    ind = page.find("field-options-"+opt.replace(' ', '-')) 
+    ind = page.find("field-options-"+opt.replace(' ', '-').lower()) 
     
     if (int == -1):
         print("Couldn't find the option " + opt)
