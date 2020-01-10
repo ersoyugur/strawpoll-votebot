@@ -1,6 +1,6 @@
 # Strawpoll Bot
 
-- This bot is fixed version of Strawpoll Bot from milkdrop, it doesn't support if checkboxes are string with spaces
+- This bot is fixed version of Strawpoll Bot from milkdrop, Bot from milkdrop doesn't support if checkboxes are string with spaces
 
 ![](/img/strawpoll1.jpg)
 
